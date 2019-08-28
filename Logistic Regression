@@ -1,0 +1,4 @@
+Churn prediction on telecom company based data.
+Apply logistic Regression Algorithm for churn prediction.
+In this model , We try to create Model Building and validation of the model using VIF, Confusion Matrix,
+ROC Curve and AUC.
